@@ -48,7 +48,7 @@ const nitrajsinh = {
     education: "Computer Science Student",
     currentFocus: "MERN Stack Development",
     hackathonWinnings: "$240+ in prizes 💰",
-    specialties: ["Team Leadership", "API Integration", "Full Stack Development"],
+    specialties: ["API Integration", "Full Stack Development"],
     currentlyLearning: ["Cloud Technologies", "DevOps", "Advanced React Patterns"],
     motto: "Code with passion, build with purpose ✨"
 };
