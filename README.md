@@ -128,10 +128,10 @@ const nitrajsinh = {
 
 | 🥇 Position | 💰 Prize | 🎯 Project |
 |-------------|----------|------------|
-| **Merit Prize** | $10 | [Hackathon Feb Winner](https://github.com/Nitrajsinh-Solanki/hackathon-feb) |
-| **3rd Place** 🥉 | $90 | [Hackathon Feb Project](https://github.com/Nitrajsinh-Solanki/hackathon-feb) |
+| **Merit Prize** | $10 | [Math Genius AI](https://github.com/Nitrajsinh-Solanki/hackathon-feb) |
+| **3rd Place** 🥉 | $90 | [Library Inventory System](https://github.com/Nitrajsinh-Solanki/library-inventory-system) |
 | **4th Place** | $70 | [BioMap](https://github.com/Nitrajsinh-Solanki/biomap) |
-| **Merit Prize** | $10 | [StackUp Hackathon](https://github.com/Nitrajsinh-Solanki/hackathon_may_stackup) |
+| **Merit Prize** | $10 | [Moodify](https://github.com/Nitrajsinh-Solanki/hackathon_may_stackup) |
 | **Aptos Bounty** | $60 | [NFT Project](https://github.com/Nitrajsinh-Solanki/aptos4-bounty-nft) |
 
 **Total Winnings: $240+** 💰
