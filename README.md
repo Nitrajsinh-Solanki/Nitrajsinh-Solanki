@@ -42,7 +42,7 @@
 const nitrajsinh = {
   name        : "Solanki Nitrajsinh Rajusinh",
   portfolio   : "https://nitrajsinh-solanki.vercel.app",
-  education   : "B.E. Computer Engineering — GEC Patan (GTU) · 7.43 CGPA · Graduating May 2026",
+  education   : "B.E. Computer Engineering — GEC Patan (GTU) · 7.90 CGPA · Graduating May 2026",
   currentRole : "Full Stack Engineer Intern @ VeloxCore Private Limited",
   internStack : ".NET (ASP.NET Core) + Angular + C# + SQL Server",
   personalStack: ["Next.js", "React", "Node.js", "MongoDB", "TypeScript", "Flutter"],
@@ -350,7 +350,7 @@ Shipped **3 live production products** for real clients — a full business plat
 
 | Degree | Institute | Board | Period | Score |
 |--------|-----------|-------|--------|-------|
-| **B.E. — Computer Engineering** *(Current)* | Government Engineering College, Patan | GTU | 2022 – May 2026 | **7.43 CGPA** |
+| **B.E. — Computer Engineering** *(Current)* | Government Engineering College, Patan | GTU | 2022 – May 2026 | **7.90 CGPA** |
 | HSC — Science | Sheth C.M. Higher Secondary School, Gandhinagar | GSEB | March 2022 | 77.53% |
 | SSC | Smt. Purbai Kanji Rajgor High School, Bhadreshwar | GSEB | March 2020 | 86.67% |
 
